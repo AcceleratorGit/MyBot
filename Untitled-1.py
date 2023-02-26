@@ -5,3 +5,4 @@ def start(message):
     bot.send_message(message.chat.id, 'Привет', parse_mode='html')
 
 bot.polling(none_stop=True)
+#ffr
